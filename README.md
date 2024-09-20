@@ -1,4 +1,4 @@
-# AirBnB Listing Analysis: Impact of Regulations on the Paris Market
+# AirBnB Listing Python Analysis: Impact of Regulations on the Paris Market
 
 ## Project Overview
 This project involves a comprehensive analysis of AirBnB listings in Paris to evaluate the effects of recent regulations on the market, specifically focusing on pricing. With AirBnB's growing popularity in Paris, regulatory measures were introduced to limit the number of properties listed in the city. This analysis seeks to understand how these regulations, which began in 2015, have influenced listing prices and market dynamics.
